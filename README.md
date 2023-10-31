@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Pierre-Alexandre Dumas
 - 👀 I’m interested in bird biology in general, but more precisely in population trends, migration, habitat use and behaviour
-- 🌱 I’m currently doing a doctorat on bird migration in regards of geographical barrier in the province of Québec with Dr. André Desrochers (Université Laval) and Pascal Côté (Explos-Nature).
+- 🌱 I’m currently doing a doctorat on bird migration in regards of geographical barrier in the province of Québec with Dr. André Desrochers (Université Laval) and Observatoire d'oiseaux de Tadoussac - Explos-Nature.
 - 💞️ I’m looking to collaborate on any bird migration and biology research project
 - 📫 How to reach me: email at Pierre-Alexandre.Dumas1@ULaval.ca
 
